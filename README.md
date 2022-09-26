@@ -1,4 +1,4 @@
-"# Reinforcement-Learning---Maze" 
+# Reinforcement-Learning---Maze
 
 Reinforcement Learning Project: Maze Extended
 
